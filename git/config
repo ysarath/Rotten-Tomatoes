@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://githug.com/ysarath/Rotten Tomatoes.git
+
+	fetch = +refs/heads/*:refs/remotes/origin/*
