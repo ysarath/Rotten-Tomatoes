@@ -1,7 +1,8 @@
 Rotten-Tomatoes
 ===============
 
-Rotten Tomatoes App for Codepath
+Rotten Tomatoes App for IOS Programming assignment
+- GIF files are in Issues Tab.
 
 How many Hours did it take to complete?
 10Hours
@@ -16,5 +17,5 @@ Required Features Implemented:
 
 
 Issues:
-1. I have difficulty with making Lice work on my MAC
+1. I have difficulty with making Lice work on my MAC.
 2. I have spent a lot of time trying to make Scrolling work on movies detail view.
